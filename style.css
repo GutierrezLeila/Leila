@@ -1,0 +1,28 @@
+img{
+    width: 100px;
+    height:100px;
+}
+h1 {
+    color:blueviolet;
+}
+p{
+    color:blue;
+}
+li{
+color:brown;
+}
+h2{
+    color:mediumorchid;
+}
+label{
+    color:rgba(255, 30, 255, 0.747);
+}
+body{
+    font-family: Arial, sans-serif;
+    margin:20px;
+    display: grid;
+    justify-content: center;
+            align-items: center;
+            height: 50vh;
+}
+.error {color:red;}
